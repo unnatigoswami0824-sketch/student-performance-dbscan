@@ -39,6 +39,6 @@ This project analyzes student performance using Python and the DBSCAN clustering
 DBSCAN (Density-Based Spatial Clustering of Applications with Noise) identifies dense groups of students and unusual performance patterns without requiring a predefined number of clusters.
 
 ## Author
-Goswami Unnati
-B.Tech – Computer Engineering
+**Goswami Unnati**  
+B.Tech – Computer Engineering  
 C. K. Pithawala College of Engineering & Technology
